@@ -1,0 +1,6 @@
+2025-03-10 15:14:51.5882| INFO|11|MobileComputer.GetDeviceId Код устройства: '@MINDEO-M40-D-410244015546'
+2025-03-10 4:51.5882| INFORMATION|11|MobileComputer.GetDeviceId| Код устройства: '@MINDEO-M40-D-410244015546'
+2025--10 15:14:51.5882| WA|11|MobileComputer.GetDeviceId| Код устройства: '@MINDEO-M40-D-410244015546'
+2025-03-10 15:14:51.5882| WARNING|13|MobileComputer.GetDeviceId| Код устройства: '@MINDEO-M40-D-410244015546'
+2025-03-10 15:14:51.5882| DEBUG|11|MobileComputer.GetDeviceId Код устройства: '@MINDEO-M40-D-410244015546'
+2025-03-10 15:14:51.5882| ERROR|11|MobileComputer.GetDeviceId|
